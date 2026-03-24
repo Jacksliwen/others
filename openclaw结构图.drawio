@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.5">
+  <diagram name="第 1 页" id="iLRHSC9GwsToqDwzzgUy">
+    <mxGraphModel dx="2893" dy="1111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6gAbmqMLtusgmBMpI2On-44" parent="1" style="whiteSpace=wrap;html=1;shadow=1;glass=0;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="570" width="1280" x="-200" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;" value="OS(windwos/linux/mac)" vertex="1">
+          <mxGeometry height="280" width="540" x="60" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-22" edge="1" parent="1" source="6gAbmqMLtusgmBMpI2On-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.063;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;fillColor=#60a917;strokeColor=#2D7600;" target="6gAbmqMLtusgmBMpI2On-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-37" edge="1" parent="1" source="6gAbmqMLtusgmBMpI2On-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" target="6gAbmqMLtusgmBMpI2On-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=31;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" value="openclaw" vertex="1">
+          <mxGeometry height="127.5" width="280" x="196" y="481" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#36393d;fillStyle=solid;gradientColor=default;" value="" vertex="1">
+          <mxGeometry height="60" width="490" x="90" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-6" connectable="0" parent="1" style="group;fillColor=#fad7ac;strokeColor=#b46504;rounded=1;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="80" width="350" x="555" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-4" parent="6gAbmqMLtusgmBMpI2On-6" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=19;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fad7ac;strokeColor=#b46504;sketch=1;curveFitting=1;jiggle=2;" value="channel" vertex="1">
+          <mxGeometry height="80" width="350" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-5" parent="6gAbmqMLtusgmBMpI2On-6" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="飞书/企微/QQ/WhatsApp/钉钉 等等" vertex="1">
+          <mxGeometry height="30" width="310" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=21;fillColor=#fad7ac;strokeColor=#b46504;sketch=1;curveFitting=1;jiggle=2;" value="Web" vertex="1">
+          <mxGeometry height="150" width="284" x="194" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=21;fillColor=#cce5ff;strokeColor=#36393d;sketch=1;curveFitting=1;jiggle=2;glass=0;" value="Skills" vertex="1">
+          <mxGeometry height="305" width="360" x="680" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-17" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="80" x="70" y="546" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-31" connectable="0" parent="6gAbmqMLtusgmBMpI2On-17" style="group" value="" vertex="1">
+          <mxGeometry height="60" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-13" parent="6gAbmqMLtusgmBMpI2On-31" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;sketch=1;curveFitting=1;jiggle=2;fontSize=15;" value="本地大模型" vertex="1">
+          <mxGeometry height="60" width="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-15" parent="6gAbmqMLtusgmBMpI2On-31" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ollama&lt;div&gt;vLLM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="10" y="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-20" edge="1" parent="1" source="6gAbmqMLtusgmBMpI2On-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fillColor=#60a917;strokeColor=#2D7600;" target="6gAbmqMLtusgmBMpI2On-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-21" edge="1" parent="1" source="6gAbmqMLtusgmBMpI2On-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;fillColor=#60a917;strokeColor=#2D7600;" target="6gAbmqMLtusgmBMpI2On-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-24" edge="1" parent="1" source="6gAbmqMLtusgmBMpI2On-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fillColor=#60a917;strokeColor=#2D7600;" target="6gAbmqMLtusgmBMpI2On-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-25" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="160" x="266" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="240" y="209" as="sourcePoint" />
+            <mxPoint x="240" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="文件系统全操作" vertex="1">
+          <mxGeometry height="30" width="107" x="113" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="Shell / 命令执行" vertex="1">
+          <mxGeometry height="30" width="120" x="219" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="桌面 GUI 自动化" vertex="1">
+          <mxGeometry height="30" width="97" x="340" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;rounded=0;glass=0;sketch=1;curveFitting=1;jiggle=2;" value="定时 / 计划任务" vertex="1">
+          <mxGeometry height="30" width="120" x="437" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-32" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="240" as="sourcePoint" />
+            <mxPoint x="230" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-33" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="201" y="260" as="sourcePoint" />
+            <mxPoint x="231" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-35" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="203" y="276" as="sourcePoint" />
+            <mxPoint x="233" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-36" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="203" y="297" as="sourcePoint" />
+            <mxPoint x="233" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-40" edge="1" parent="1" source="6gAbmqMLtusgmBMpI2On-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" target="6gAbmqMLtusgmBMpI2On-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="LLM" vertex="1">
+          <mxGeometry height="255" width="190" x="-170" y="448.34" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-14" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;fontSize=19;fillColor=#b1ddf0;strokeColor=#10739e;sketch=1;curveFitting=1;jiggle=2;" value="ChatGPT&lt;div&gt;Claude&lt;/div&gt;&lt;div&gt;Gemini&lt;/div&gt;&lt;div&gt;bailian&lt;/div&gt;&lt;div&gt;zhipu&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" vertex="1">
+          <mxGeometry height="179.69284009546539" width="88.875" x="-119.4375" y="480.99608591885436" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-41" parent="1" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="Feishu Bot&lt;br&gt;收到指令 → 本地干活 → 结果回推飞书" vertex="1">
+          <mxGeometry height="60" width="290" x="710" y="448.34" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-42" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="Coding&lt;br&gt;本地跑 Python / Shell / Go / C++ 编译运行" vertex="1">
+          <mxGeometry height="60" width="290" x="710" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-43" parent="1" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" value="股票交易&lt;br&gt;对接股票交易网站，实时交易" vertex="1">
+          <mxGeometry height="60" width="290" x="710" y="606" as="geometry" />
+        </mxCell>
+        <mxCell id="6gAbmqMLtusgmBMpI2On-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#ae4132;fillColor=#fad9d5;align=center;verticalAlign=middle;rounded=1;glass=0;fontSize=29;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;sketch=1;curveFitting=1;jiggle=2;" value="openclaw结构" vertex="1">
+          <mxGeometry height="70" width="290" x="-190" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
